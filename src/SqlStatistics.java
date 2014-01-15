@@ -212,16 +212,16 @@ public class SqlStatistics {
 
     public static void main(String[] args)
             throws SQLException {
-        String jdbcstr = "jdbc:oracle:thin:@ldap://oid.its.yale.edu:389/HOP7,CN=OracleContext,dc=world";
-        String username = "ap349";
-        String password = "dba911";
+        String jdbcstr = "jdbc:oracle:thin:@ldap://xxx.xxx.xxx.xxx:389/XXXX,CN=OracleContext,dc=world";
+        String username = "xxxx";
+        String password = "xxxx";
         String sql = "select a.rowid, a.sample,a.sample1 from zipfian a";
 
         SqlStatistics statistics = new SqlStatistics(jdbcstr, username, password, ORACLE_DRIVER_NAME);
         HashMap<String, ColumnStats> val = statistics.gatherSqlStats(sql);
         statistics.dumpCardinalitySketchIntoTopk(val);
-        //statistics.printColumnStats(val);
-        //statistics.calculateNDVError(sql, val, "zipfian");
-        //statistics.highFrequencyInclusionError(sql, val, "zipfian");
+        statistics.printColumnStats(val);
+        statistics.calculateNDVError(sql, val, "zipfian");
+        statistics.highFrequencyInclusionError(sql, val, "zipfian");
     }
 }
