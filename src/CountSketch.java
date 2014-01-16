@@ -1,5 +1,3 @@
-import com.clearspring.analytics.hash.MurmurHash;
-
 import java.io.*;
 import java.util.Random;
 import java.util.Arrays;
