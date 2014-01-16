@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d76bbdee-37ac-4ee7-97f0-fee9f4e34292" name="Default" comment="" />
+    <ignored path="Sketch.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Sketch" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ColumnStats.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ColumnStats.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="18" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1320">
+              <folding>
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#521#522#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountSketch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountSketch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="42" column="56" selection-start="0" selection-end="10520" vertical-scroll-proportion="0.0" vertical-offset="924" max-vertical-offset="7436">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountMinSketch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CountMinSketch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="287" column="64" selection-start="0" selection-end="9681" vertical-scroll-proportion="0.0" vertical-offset="6160" max-vertical-offset="7062">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardinalitySketch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CardinalitySketch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="32" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0" vertical-offset="4092" max-vertical-offset="7348">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MurmurHash.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MurmurHash.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="94" selection-start="0" selection-end="6437" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="5456">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SqlStatistics.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SqlStatistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="222" column="42" selection-start="9603" selection-end="9603" vertical-scroll-proportion="0.46341464" vertical-offset="4356" max-vertical-offset="5258">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopK.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TopK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="53" selection-start="0" selection-end="3532" vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="2420">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipfianDataGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ZipfianDataGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="22" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="2222">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataUniformZipfianGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DataUniformZipfianGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="47" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1364">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/CountMinCorrectionSketch.java" />
+        <option value="$PROJECT_DIR$/src/Sketch.java" />
+        <option value="$PROJECT_DIR$/src/ZipfianDataGenerator.java" />
+        <option value="$PROJECT_DIR$/src/CountSketch.java" />
+        <option value="$PROJECT_DIR$/src/RowidMap.java" />
+        <option value="$PROJECT_DIR$/src/ClassTest.java" />
+        <option value="$PROJECT_DIR$/src/UniformGenerator.java" />
+        <option value="$PROJECT_DIR$/src/MurmurHash.java" />
+        <option value="$PROJECT_DIR$/src/CardinalitySketch.java" />
+        <option value="$PROJECT_DIR$/src/DataUniformZipfianGenerator.java" />
+        <option value="$PROJECT_DIR$/src/TopK.java" />
+        <option value="$PROJECT_DIR$/src/CountMinSketch.java" />
+        <option value="$PROJECT_DIR$/src/ColumnStats.java" />
+        <option value="$PROJECT_DIR$/src/SqlStatistics.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ojdbc6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ojdbc6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream-2.6.0-SNAPSHOT.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ojdbc6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream-2.6.0-SNAPSHOT.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ojdbc6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream-2.6.0-SNAPSHOT.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ojdbc6" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream-2.6.0-SNAPSHOT.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analytics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="frequency" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core-0.1.4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sketch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../streamlib/ycsb.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DataUniformZipfianGenerator">
+    <configuration default="false" name="ZipfianDataGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZipfianDataGenerator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Sketch" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CardinalitySketch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CardinalitySketch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Sketch" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SqlStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SqlStatistics" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Sketch" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Sketch" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="DataUniformZipfianGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataUniformZipfianGenerator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Sketch" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ZipfianDataGenerator" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CardinalitySketch" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SqlStatistics" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ClassTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DataUniformZipfianGenerator" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.DataUniformZipfianGenerator" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ClassTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SqlStatistics" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CardinalitySketch" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ZipfianDataGenerator" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d76bbdee-37ac-4ee7-97f0-fee9f4e34292" name="Default" comment="" />
+      <created>1386295405382</created>
+      <updated>1386295405382</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14285715" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3790576" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DataUniformZipfianGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="47" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/commons-math3-3.2.jar!/org/apache/commons/math3/genetics/AbstractListChromosome.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="185" selection-end="185" vertical-scroll-proportion="0.123734534" vertical-offset="0" max-vertical-offset="889" />
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/algs4/algs4.jar!/IndexMinPQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="186" column="13" selection-start="7533" selection-end="7539" vertical-scroll-proportion="0.0" vertical-offset="4092" max-vertical-offset="6754" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/commons-math3-3.2.jar!/org/apache/commons/math3/distribution/ZipfDistribution.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="65" selection-start="618" selection-end="655" vertical-scroll-proportion="-6.52" vertical-offset="167" max-vertical-offset="1056" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-exec.jar!/com/clearspring/analytics/hash/MurmurHash.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="50" selection-start="755" selection-end="755" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="638" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/AdaptiveCounting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="122" column="48" selection-start="3145" selection-end="3154" vertical-scroll-proportion="0.0" vertical-offset="2783" max-vertical-offset="4092" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/CardinalityMergeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/CountThenEstimate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="13" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0" vertical-offset="3927" max-vertical-offset="7832" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/HyperLogLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="220" column="5" selection-start="6835" selection-end="7175" vertical-scroll-proportion="0.0" vertical-offset="5454" max-vertical-offset="6358" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/HyperLogLogPlus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="28" selection-start="1577" selection-end="1590" vertical-scroll-proportion="0.0" vertical-offset="3234" max-vertical-offset="23694" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/LinearCounting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="51" selection-start="1027" selection-end="1039" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8338" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/ICardinality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="49" selection-start="2286" selection-end="2296" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="1716" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/RegisterSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="13" selection-start="683" selection-end="683" vertical-scroll-proportion="0.0" vertical-offset="1670" max-vertical-offset="2574" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/cardinality/LogLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="30" selection-start="1062" selection-end="1062" vertical-scroll-proportion="0.3369803" vertical-offset="0" max-vertical-offset="5082" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/Generator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.4" vertical-offset="0" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/FileGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="167" selection-end="167" vertical-scroll-proportion="-4.4" vertical-offset="0" max-vertical-offset="506" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/commons-math3-3.2.jar!/org/apache/commons/math3/analysis/BivariateFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="17" selection-start="180" selection-end="180" vertical-scroll-proportion="-4.4" vertical-offset="0" max-vertical-offset="286" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/commons-math3-3.2.jar!/org/apache/commons/math3/analysis/solvers/DifferentiableUnivariateSolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="211" selection-end="211" vertical-scroll-proportion="-7.04" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/commons-math3-3.2.jar!/org/apache/commons/math3/analysis/solvers/AllowedSolution.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="12" selection-start="183" selection-end="183" vertical-scroll-proportion="0.123734534" vertical-offset="0" max-vertical-offset="889" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/membership/BloomFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="1066" selection-end="1066" vertical-scroll-proportion="-2.5598705" vertical-offset="2505" max-vertical-offset="4158" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/hash/Lookup3Hash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7612" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/hash/MurmurHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="196" column="25" selection-start="5026" selection-end="5026" vertical-scroll-proportion="0.0" vertical-offset="2967" max-vertical-offset="5522" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/IntegerGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="22" selection-start="176" selection-end="176" vertical-scroll-proportion="-4.4" vertical-offset="0" max-vertical-offset="594" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/SkewedLatestGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="167" selection-end="167" vertical-scroll-proportion="-4.4" vertical-offset="0" max-vertical-offset="484" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/ConstantIntegerGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="167" selection-end="167" vertical-scroll-proportion="0.12195122" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/DiscreteGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="12" selection-start="811" selection-end="811" vertical-scroll-proportion="0.5609756" vertical-offset="0" max-vertical-offset="902" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/ITopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="13" selection-start="927" selection-end="927" vertical-scroll-proportion="0.38012958" vertical-offset="0" max-vertical-offset="926" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/ojdbc6.jar!/oracle/jdbc/driver/OracleResultSetMetaData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="0" selection-start="3993" selection-end="3993" vertical-scroll-proportion="0.79657793" vertical-offset="1363" max-vertical-offset="1914" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/membership/Filter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="50" selection-start="1004" selection-end="1004" vertical-scroll-proportion="0.12095033" vertical-offset="64" max-vertical-offset="1870" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/ScrambledZipfianGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="36" selection-start="609" selection-end="634" vertical-scroll-proportion="-14.08" vertical-offset="0" max-vertical-offset="726" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/ZipfianGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="43" selection-start="609" selection-end="613" vertical-scroll-proportion="-6.48" vertical-offset="278" max-vertical-offset="1166" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/ExponentialGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="1" selection-end="1" vertical-scroll-proportion="-0.88" vertical-offset="0" max-vertical-offset="638" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/UniformIntegerGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="414" selection-end="414" vertical-scroll-proportion="-11.44" vertical-offset="0" max-vertical-offset="462" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/UniformGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="45" selection-start="416" selection-end="416" vertical-scroll-proportion="-8.8" vertical-offset="0" max-vertical-offset="462" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/core-0.1.4.jar!/com/yahoo/ycsb/generator/CounterGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/ycsb.jar!/com/yahoo/ycsb/generator/UniformIntegerGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="968" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/ycsb.jar!/com/yahoo/ycsb/generator/UniformGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="11" selection-start="3122" selection-end="3122" vertical-scroll-proportion="0.0" vertical-offset="725" max-vertical-offset="1276" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/ycsb.jar!/com/yahoo/ycsb/generator/ScrambledZipfianGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="39" selection-start="3734" selection-end="3744" vertical-scroll-proportion="0.0" vertical-offset="26" max-vertical-offset="2420" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/ycsb.jar!/com/yahoo/ycsb/generator/ZipfianGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="316" column="29" selection-start="13903" selection-end="13903" vertical-scroll-proportion="0.0" vertical-offset="6237" max-vertical-offset="7150" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/com/clearspring/analytics/stream/frequency/CountMinSketch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="81" selection-start="2220" selection-end="2220" vertical-scroll-proportion="1.3414634" vertical-offset="0" max-vertical-offset="7106" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../streamlib/ycsb.jar!/com/yahoo/ycsb/generator/CounterGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="13" selection-start="2807" selection-end="2807" vertical-scroll-proportion="0.16630669" vertical-offset="0" max-vertical-offset="926" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RowidMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="34" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0" vertical-offset="1230" max-vertical-offset="2156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ZipfianDataGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="22" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataUniformZipfianGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="47" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TopK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="53" selection-start="0" selection-end="3532" vertical-scroll-proportion="0.0" vertical-offset="1545" max-vertical-offset="2420">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountSketch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="56" selection-start="0" selection-end="10520" vertical-scroll-proportion="0.0" vertical-offset="572" max-vertical-offset="7216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountMinSketch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="287" column="64" selection-start="0" selection-end="9681" vertical-scroll-proportion="0.0" vertical-offset="6160" max-vertical-offset="7062">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MurmurHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="94" selection-start="0" selection-end="6437" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ColumnStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="18" selection-start="1130" selection-end="1130" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1320">
+          <folding>
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CardinalitySketch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="32" selection-start="746" selection-end="746" vertical-scroll-proportion="0.0" vertical-offset="4092" max-vertical-offset="7348">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SqlStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="222" column="42" selection-start="9603" selection-end="9603" vertical-scroll-proportion="0.46341464" vertical-offset="4356" max-vertical-offset="5258">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Sketch</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>core-0.1.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

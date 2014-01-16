@@ -16,6 +16,14 @@ public class ColumnStats {
         doingLossyCounting = false;
     }
 
+    public long getNumRows() {
+        return this.numRows;
+    }
+
+    public long getNumNulls() {
+        return this.numNulls;
+    }
+
     public String getColumnClassName() {
         return columnClassName;
     }

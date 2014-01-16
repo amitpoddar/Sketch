@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="ojdbc6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../streamlib/ojdbc6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../streamlib/ojdbc7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-exec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../streamlib/stream-2.6.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

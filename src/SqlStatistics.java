@@ -155,7 +155,7 @@ public class SqlStatistics {
                     columnStat.incrementNumNulls();
                 }  else {
                     CardinalitySketch sketch = columnStats.get(columnLabel).getCardinalitySketch();
-                    sketch.add(object.toString());
+                    sketch.add(object.toString(), rowid);
 
                     if ( columnStat.isDoingLossyCounting() ) {
                         TopK topk = columnStats.get(columnLabel).getTopk();
@@ -200,28 +200,39 @@ public class SqlStatistics {
     private void printColumnStats(HashMap<String, ColumnStats> value) {
         for (String key : value.keySet() ) {
             ColumnStats columnStats = value.get(key);
-            System.out.println("Column Name: " + key + " NDV: " + columnStats.getCardinalitySketch().estimateNDV());
+            System.out.printf("%20s:  %s\n", "Column Name", key);
+            System.out.printf("%20s:  %d\n", "Split", columnStats.getCardinalitySketch().getSplit());
+            System.out.printf("%20s:  %d\n", "NDV", columnStats.getCardinalitySketch().estimateNDV());
+            System.out.printf("%20s:  %d\n\n", "Not nulls",columnStats.getNumRows() - columnStats.getNumNulls());
+
             Stack<RowidMap> stack = columnStats.getTopk().getTopKElements();
+            int rank = 1;
+            System.out.printf("-----------------------------------------------------------\n");
+            System.out.printf("%10s%30s%20s\n","Rank", "Rowid", "Frequency");
+            System.out.printf("-----------------------------------------------------------\n");
 
             while ( !stack.empty() ) {
                 RowidMap map = stack.pop();
-                System.out.println(map.getObject().toString() + ": " + map.getCount());
+                System.out.printf("%10d%30s%20d\n", rank,map.getRowid().stringValue(), map.getCount());
+                ++rank;
             }
+
+            System.out.printf("\n\n");
         }
     }
 
     public static void main(String[] args)
             throws SQLException {
-        String jdbcstr = "jdbc:oracle:thin:@ldap://xxx.xxx.xxx.xxx:389/XXXX,CN=OracleContext,dc=world";
+        String jdbcstr = "jdbc:oracle:thin:@ldap://oid.its.yale.edu:389/DB121,CN=OracleContext,dc=world";
         String username = "ap349";
-        String password = "xxxxx";
-        String sql = "select a.rowid, a.sample,a.sample1 from zipfian a";
+        String password = "dba911";
+        String sql = "select a.rowid, a.year,a.amount from sales a";
 
         SqlStatistics statistics = new SqlStatistics(jdbcstr, username, password, ORACLE_DRIVER_NAME);
         HashMap<String, ColumnStats> val = statistics.gatherSqlStats(sql);
         statistics.dumpCardinalitySketchIntoTopk(val);
         statistics.printColumnStats(val);
-        statistics.calculateNDVError(sql, val, "zipfian");
-        statistics.highFrequencyInclusionError(sql, val, "zipfian");
+        //statistics.calculateNDVError(sql, val, "sales");
+        //statistics.highFrequencyInclusionError(sql, val, "sales");
     }
 }
