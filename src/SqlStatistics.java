@@ -228,6 +228,7 @@ public class SqlStatistics {
         String password = "xxxx";
         String sql = "select a.rowid, a.year,a.amount from sales a";
 
+
         SqlStatistics statistics = new SqlStatistics(jdbcstr, username, password, ORACLE_DRIVER_NAME);
         HashMap<String, ColumnStats> val = statistics.gatherSqlStats(sql);
         statistics.dumpCardinalitySketchIntoTopk(val);
