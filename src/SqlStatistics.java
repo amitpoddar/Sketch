@@ -224,8 +224,8 @@ public class SqlStatistics {
     public static void main(String[] args)
             throws SQLException {
         String jdbcstr = "jdbc:oracle:thin:@ldap://oid.its.yale.edu:389/DB121,CN=OracleContext,dc=world";
-        String username = "ap349";
-        String password = "dba911";
+        String username = "xxxx";
+        String password = "xxxx";
         String sql = "select a.rowid, a.year,a.amount from sales a";
 
         SqlStatistics statistics = new SqlStatistics(jdbcstr, username, password, ORACLE_DRIVER_NAME);
